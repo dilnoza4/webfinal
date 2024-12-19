@@ -16,11 +16,11 @@ A modern React application for browsing and filtering cars by various criteria i
 
 ## Technologies Used
 
-- React 18
-- React Router v6
+- React
+- React Router 
 - React Bootstrap
 - Bootstrap 5
-- Modern JavaScript (ES6+)
+  
 
 ## Getting Started
 
